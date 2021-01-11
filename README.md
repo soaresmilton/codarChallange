@@ -37,7 +37,7 @@ CSS
 # Resultado do meu desafio:
 
 <div align="center">
-<img src="assets/Codarchallenge.gif" alt="Desafio DevChallenge: Codar">
+<img src="assets/CodarChallenge.gif" alt="Desafio DevChallenge: Codar">
 </div>
 
 
