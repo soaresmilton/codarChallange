@@ -4,8 +4,9 @@
     <img src="https://i.ibb.co/stqTkc6/video-call.png" alt="Logo" width="250" height="200">
   </a>
 </p>
-<p align="center">
   <h3 align="center">Codar.</h3>
+
+<p align="center">
     Site de uma empresa que desenvolve sites
 </p>
 <div align="center">
