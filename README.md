@@ -1,18 +1,25 @@
-<br />
+
 <p align="center">
   <a href="http://www.freepik.com">
     <img src="https://i.ibb.co/stqTkc6/video-call.png" alt="Logo" width="250" height="200">
   </a>
-
-  <h3 align="center">Codar.</h3>
-
-  <p align="center">
-    Site de uma empresa que desenvolve sites
-       <br />
-    <br />
-    <a href="https://www.linkedin.com/in/soaresmilton/">Contato</a>
-  </p>
 </p>
+<p align="center">
+  <h3 align="center">Codar.</h3>
+    Site de uma empresa que desenvolve sites
+</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/soaresmilton/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
+<a href="https://www.youtube.com/watch?v=07i0QsuVGkw" target="_blank">
+  <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/soaresmiltinho/" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</div>
 
 ## Índice
 
